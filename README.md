@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo to fulfill class requirments
+Repo to fulfill class requirements
